@@ -7,16 +7,24 @@
     display: flex;
     height: 70%;
     width: 100%;
+    
 }
 #bot{
-    background-color: grey;
+    background: url(9999.png);
     height: 30%;
     width: 100%;
+    color: white;
+    font-size: 30px;
 }
 #botName{
     height: 30%;
     border-bottom: white solid 1px;
 }
+
 img{
+    height: 300px;
+    padding-top: 100px; 
+}
+#divНика{
     height: 300px;
 }
