@@ -1,0 +1,22 @@
+#scena{
+    background: url(869.jpg);
+    height: 699px;
+    width: 1500px;
+}
+#top{
+    display: flex;
+    height: 70%;
+    width: 100%;
+}
+#bot{
+    background-color: grey;
+    height: 30%;
+    width: 100%;
+}
+#botName{
+    height: 30%;
+    border-bottom: white solid 1px;
+}
+img{
+    height: 300px;
+}
